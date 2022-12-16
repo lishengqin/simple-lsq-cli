@@ -1,0 +1,16 @@
+{
+  "name": "simple-lsq-cli",
+  "type": "module",
+  "main": "./bin/simple-lsq-cli.js",
+  "version": "1.0.1",
+  "description": "自定义脚手架第一步之复刻模板",
+  "bin": {
+    "simple-lsq-cli": "./bin/simple-lsq-cli.js"
+  },
+  "publishConfig": {
+    "registry": " https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
