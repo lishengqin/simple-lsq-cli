@@ -2,7 +2,7 @@
   "name": "simple-lsq-cli",
   "type": "module",
   "main": "./bin/simple-lsq-cli.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "自定义脚手架第一步之复刻模板",
   "bin": {
     "simple-lsq-cli": "./bin/simple-lsq-cli.js"
